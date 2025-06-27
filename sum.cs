@@ -17,6 +17,8 @@ namespace _5BTECH_A
 
             Console.Write("this is from github");
 
+            Console.Write("this is from visual");
+
             Console.Read();
         }
        
