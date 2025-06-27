@@ -15,6 +15,8 @@ namespace _5BTECH_A
             int sum = a + b;
             Console.WriteLine("sum is " + sum);
 
+            Console.Write("this is from github");
+
             Console.Read();
         }
        
